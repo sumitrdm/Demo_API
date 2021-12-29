@@ -1,38 +1,45 @@
-[
+{
+    "name":"xyz",
+    "email":"xyz@gmail.com",
+    "date":"1 January, 2022",
+    "invoiceID":"#234gjgwe7",
+    "tranctions":[
+        {
+        "id": "1",
+        "meterStart": "1032,50",
+        "meterEnd": "1032,50",
+        "TxStartAt": "06:31:59,16.12.21",
+        "TxEndAt": "07:31:39,16.12.21",
+        "totalUtilization": "0,50",
+        "cost": "0,14"
+    },
     {
-    "id": "1",
-    "motorStart": "1032,50",
-    "motorEnd": "1032,50",
-    "TxStartAt": "06:31:59,16.12.21",
-    "TxEndAt": "07:31:39,16.12.21",
-    "totalUtilization": "0,50",
-    "cost": "0,14"
-},
-{
-    "id": "2",
-    "motorStart": "1032,50",
-    "motorEnd": "1032,50",
-    "TxStartAt": "06:31:59,16.12.21",
-    "TxEndAt": "07:31:39,16.12.21",
-    "totalUtilization": "0,50",
-    "cost": "0,14"
-},
-{
-    "id": "3",
-    "motorStart": "1032,50",
-    "motorEnd": "1032,50",
-    "TxStartAt": "06:31:59,16.12.21",
-    "TxEndAt": "07:31:39,16.12.21",
-    "totalUtilization": "0,50",
-    "cost": "0,14"
-},
-{
-    "id": "4",
-    "motorStart": "1032,50",
-    "motorEnd": "1032,50",
-    "TxStartAt": "06:31:59,16.12.21",
-    "TxEndAt": "07:31:39,16.12.21",
-    "totalUtilization": "0,50",
-    "cost": "0,14"
+        "id": "2",
+        "meterStart": "1032,50",
+        "meterEnd": "1032,50",
+        "TxStartAt": "06:31:59,16.12.21",
+        "TxEndAt": "07:31:39,16.12.21",
+        "totalUtilization": "0,50",
+        "cost": "0,14"
+    },
+    {
+        "id": "3",
+        "meterStart": "1032,50",
+        "meterEnd": "1032,50",
+        "TxStartAt": "06:31:59,16.12.21",
+        "TxEndAt": "07:31:39,16.12.21",
+        "totalUtilization": "0,50",
+        "cost": "0,14"
+    },
+    {
+        "id": "4",
+        "meterStart": "1032,50",
+        "meterEnd": "1032,50",
+        "TxStartAt": "06:31:59,16.12.21",
+        "TxEndAt": "07:31:39,16.12.21",
+        "totalUtilization": "0,50",
+        "cost": "0,14"
+    }
+    ]
+    
 }
-]
