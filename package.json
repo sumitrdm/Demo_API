@@ -1,0 +1,24 @@
+{
+  "name": "demo_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitrdm/Demo_API.git"
+  },
+  "author": "sumit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitrdm/Demo_API/issues"
+  },
+  "homepage": "https://github.com/sumitrdm/Demo_API#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
